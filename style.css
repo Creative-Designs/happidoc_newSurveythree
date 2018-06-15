@@ -225,7 +225,13 @@ color:#0290b3;
 	margin:-30px 0 0 0;
 }
 	
-
+.thank_u{
+	color:#023c73;
+	font-weight:bold;
+	font-family:'para_font';
+	font-size:40px;
+	padding:10px 0 0 0;
+}
 	
 	body {
        overflow-x: hidden !important;
@@ -258,7 +264,7 @@ color:#0290b3;
 /*==============banner==============*/
 .banner_img{
 	background:url('img/banner_mobile.jpg') no-repeat;
-	height:90px;
+	height:120px;
  
 	margin:-20px auto;
 }
