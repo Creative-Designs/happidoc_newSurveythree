@@ -264,7 +264,7 @@ color:#0290b3;
 /*==============banner==============*/
 .banner_img{
 	background:url('img/banner_mobile.jpg') no-repeat;
-	height:120px;
+	height:240px;
  
 	margin:-20px auto;
 }
@@ -274,10 +274,11 @@ color:#0290b3;
 	border:none;
 	border-radius:5px;
 	background:#0290b3;
-	height:40px;
+	height:50px;
 	margin:10px 0 30px 0;
 	color:#fff;
 	font-size:18px;
+	padding:15px 0 0 0;
 	transition:.3s ease;
 }
 .my_btn:hover{
