@@ -168,7 +168,7 @@ color:#0290b3;
 }
 .footer_para{
 	color:#fff;
-	font-size:14px;
+	font-size:17px;
 }
 .icon_style{
 	width:30px;
@@ -177,16 +177,29 @@ color:#0290b3;
 }
 .footer_text{
 	color:#fff;
-	font-size:15px;
+	font-size:17px;
 
 	
 	
+}
+.en_icon{
+	color:#3FBEDD;
+	font-size:24px;
+	padding:0 10px 0 0;
 }
 .social_icon{
 	color:#3FBEDD;
 	font-size:24px;
 }
-
+.footer_para_contact{
+	color:#3FBEDD;
+	font-size:20px;
+}
+.copy_para{
+	color:#939393;
+	font-size:14px;
+	padding:10px 0 0 0;
+}
 
 @media screen and (min-width:100px) and (max-width:480px){
 	.slideanim.slide {                  
