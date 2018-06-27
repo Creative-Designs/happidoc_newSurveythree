@@ -50,3 +50,11 @@
   {
 	
   }
+  @media screen and (min-width:100px) and (max-width:480px){
+	 .sg-input{
+		
+	 } 
+	 .first_input{
+		 width:200px;
+	 }
+  }
